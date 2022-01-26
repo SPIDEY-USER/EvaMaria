@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/MRK-YT/EvaMaria",
+    "website": "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https%3A%2F%2Fgithub.com%2FMRK-YT%2Fevamaria%2Ftree%2Fmaster",
+    "repository": "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https%3A%2F%2Fgithub.com%2FMRK-YT%2Fevamaria%2Ftree%2Fmaster",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
